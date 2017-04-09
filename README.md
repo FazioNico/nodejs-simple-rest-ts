@@ -11,7 +11,7 @@ Simple REST NodeJS server with TypeScript
 
 ## Get Started
 - run MongoDB
-- `$ npm insatll -g typescript tsc`
+- `$ npm insatll -g typescript tsc nodemon`
 - `$ npm install`
 - `$ npm start:dev` for dev mode
 - `$ npm start` for prod mode
