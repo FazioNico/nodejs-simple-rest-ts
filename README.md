@@ -10,7 +10,7 @@
 Simple REST NodeJS server with TypeScript
 
 ## Get Started
-- run MongoDB
+- run MongoDB by open CLI from `./mongodb/bin` folder and run `$ ./mongod --dbpath ../data/db`
 - `$ npm install -g typescript tsc nodemon`
 - `$ npm install`
 - `$ npm start:dev` for dev mode
