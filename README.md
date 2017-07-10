@@ -7,12 +7,13 @@
 -->
 
 # NodeJS Simple REST TS
-Simple REST NodeJS server with TypeScript
+Simple REST NodeJS server with TypeScript for Ionic DevOps Cours.
 
 ## Get Started
 - run MongoDB by open CLI from `./mongodb/bin` folder and run `$ ./mongod --dbpath ../data/db`
 - `$ npm install -g typescript tsc nodemon`
 - `$ npm install`
+- add `./server/config.ts` file with correct config params
 - `$ npm start:dev` for dev mode
 - `$ npm start` for prod mode
 
